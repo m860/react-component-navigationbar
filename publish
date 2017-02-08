@@ -1,1 +1,2 @@
 cp src/navigationbar.js index.js
+npm publish --access public
