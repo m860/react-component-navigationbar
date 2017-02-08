@@ -1,2 +1,5 @@
 src
 webpack.config.js
+publish
+.badge.json
+.eslintrc
