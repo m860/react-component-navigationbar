@@ -1,2 +1,2 @@
-cp src/navigationbar.js index.js
+./node_modules/.bin/babel --presets=es2015,stage-0,react src/navigationbar.js --out-file index.js
 npm publish --access public
